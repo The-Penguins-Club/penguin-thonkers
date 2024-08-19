@@ -1,1 +1,0 @@
-Used for editing the text in VSCode/VScodium [[Wikitext|https://marketplace.visualstudio.com/items?itemName=RoweWilsonFrederiskHolme.wikitext]] plugin.
